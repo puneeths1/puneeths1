@@ -1,4 +1,4 @@
-<h1 align="center">Puneeth S | Senior Backend Engineer</h1>
+<h1 align="center">Puneeth S | Backend Engineer</h1>
 <p align="center">
   <b>Distributed Systems Specialist • Java Expert • High-Availability Architecture</b>
 </p>
