@@ -13,46 +13,47 @@
 ---
 
 ### 🚀 Engineering Philosophy
-I specialize in re-engineering legacy monoliths into high-performance, decoupled microservices. My focus is on **extreme latency reduction**, **cost-effective scalability**, and **99.99% system reliability**.
+I architect high-performance backends that solve complex data synchronization and scalability challenges. My work is defined by **99.99% availability** and **extreme latency reduction**.
 
-### ⚡ Mission-Critical Impact (Valtech India Systems)
-* **12x Performance Leap:** Re-architected a legacy annual sync pipeline into a **Daily Delta Engine (SCD1)** using Java 17 and Spring Batch.
-* **92% Latency Reduction:** Transformed legacy architectures into high-performance distributed microservices.
-* **40% Database IOPS Optimization:** Engineered a multi-tier **Redis** caching strategy, improving end-to-end API response times by 25%.
-* **Resilient Infrastructure:** Deployed Spring Boot services in **Kubernetes** with circuit breakers, ensuring 99.99% availability.
-* **Recognition:** Awarded **'Jewel of Valtech' (2024)** for technical leadership in enterprise system re-design.
+### ⚡ Technical Impact (Valtech India Systems)
+* **12x Performance Leap:** Re-architected legacy annual synchronization into a **Daily Delta Engine (SCD1)** using Java 17 and Spring Batch.
+* **92% Latency Reduction:** Transformed legacy monolithic architectures into high-performance, decoupled microservices.
+* **40% Database IOPS Reduction:** Engineered a multi-tier **Redis** caching strategy, improving end-to-end API latency by 25%.
+* **99.99% Service Availability:** Deployed resilient Spring Boot services in **Kubernetes** with circuit breakers and Prometheus monitoring.
+* **Recognition:** Awarded **'Jewel of Valtech' (2024)** for technical leadership in system re-design.
 
 ---
 
 ### 🛠 Technical Ecosystem
 
-| Category | Tools & Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.icons8.com/color/18/java-coffee-cup-logo.png"/> Java (8/11/17), <img src="https://img.icons8.com/color/18/postgreesql.png"/> SQL, C++, Python |
-| **Frameworks** | Spring Boot, Spring Cloud, Hibernate, Spring Data JPA |
-| **Distributed Systems** | Microservices, <img src="https://img.icons8.com/color/18/redis.png"/> Redis, Kafka, Load Balancing, REST APIs |
-| **Infrastructure** | <img src="https://img.icons8.com/color/18/amazon-web-services.png"/> AWS, <img src="https://img.icons8.com/color/18/docker.png"/> Docker, <img src="https://img.icons8.com/color/18/kubernetes.png"/> Kubernetes, Jenkins |
-| **Observability** | JUnit 5, Mockito, Prometheus, Grafana, ELK Stack |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,py,js,mysql" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,hibernate,redis,kafka" /> |
+| **Cloud & DevOps**| <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins" /> |
+| **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> |
 
 ---
 
 ### 🌟 Featured Architecture
+
+
 
 #### **Life Care Marketplace**
 * Built a high-concurrency marketplace; optimized **PostgreSQL execution plans** and materialized views to reduce query latency by **30%**.
 * Integrated **OAuth2 and JWT** to secure sensitive pharmaceutical transactions.
 
 #### **MentorMate Enterprise**
-* Architected an event-driven OKR engine using **RESTful Design Patterns** and contract-first development.
-* Maintained **95%+ code coverage** via Mockito integration testing.
+* Architected an event-driven OKR tracking engine with **95%+ code coverage** using TDD and Mockito.
+* Utilized RESTful Design Patterns and contract-first development.
 
 #### **Hardware Security (CMTI)**
-* Developed secure C++ applications for **Hardware Security Modules (HSM)**, implementing cryptographic handshakes for device authentication.
+* Developed secure C++ applications for **Hardware Security Modules (HSM)**, implementing cryptographic handshakes for authentication.
 
 ---
 
 ### 🏆 Recognitions
-* **Jewel of Valtech (2024):** Awarded for technical leadership in enterprise system re-design.
+* **Jewel of Valtech (2024):** Awarded for top-tier technical leadership.
 * **HackerRank 5-Star (Gold):** Globally ranked in the top percentile for Java and Data Structures.
 
 ---
